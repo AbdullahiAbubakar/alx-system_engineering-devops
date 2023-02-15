@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "total 60" > ls_cwd_content
