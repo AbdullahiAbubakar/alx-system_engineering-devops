@@ -1,2 +1,2 @@
 #!/bin/bash
-export VAR="echo $((POWER/DIVIDE))" "\n"
+echo $(( export POWER/export DIVIDE))" "\n"
